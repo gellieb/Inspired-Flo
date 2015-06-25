@@ -1,0 +1,12 @@
+platform :ios, '8.0'
+
+target 'Inspired-Flow' do
+    pod 'AFNetworking', '~> 2.5'
+    pod 'ORStackView', '~> 2.0'
+    pod 'SwiftyJSON', '~> 2.1'
+end
+
+target 'Inspired-FlowTests' do
+
+end
+
